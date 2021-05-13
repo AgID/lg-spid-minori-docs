@@ -4,7 +4,7 @@ Linee guida operative per la fruizione dei servizi SPID da parte dei minori
 .. admonition:: Consultazione pubblica
 
    La consultazione pubblica per questo documento è attiva dal 
-   xx/05/2021 al xx/06/2021.
+   13/05/2021 al 14/06/2021.
 
 .. toctree::
    :maxdepth: 2
